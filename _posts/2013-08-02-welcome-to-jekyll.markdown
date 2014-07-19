@@ -24,4 +24,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
-[pic]: http://yun.baidu.com/share/link?shareid=1907613033&uk=1228126387
+[pic]: http://ww2.sinaimg.cn/large/6818e959jw1e6s8ygg69jj20k50cqtah.jpg
